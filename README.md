@@ -1,11 +1,13 @@
 # Docker
 
-Docker is a container management service. The keywords of Docker are develop, ship and run anywhere. The whole idea of Docker is for developers to easily develop applications, ship them into containers which can then be deployed anywhere.
+  - Docker is a tool designed to make it easier to create, deploy, and run applications by using containers.
+  -Docker is a container management service. The whole idea of Docker is for developers to easily develop applications, ship them into containers which can then be deployed anywhere.
 
 ## feature of docker :
 
 -Docker has the ability to reduce the size of development by providing a smaller footprint of the operating system via containers.
 -You can deploy Docker containers anywhere, on any physical and virtual machines and even on the cloud.
+-Lightweight
 
 ## some setup information for implementing docker in nodeJs
 
